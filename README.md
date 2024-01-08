@@ -17,6 +17,9 @@ Possibility of observation strategy compared with immediate surgical treatment f
 [Cumulative incidence of CIN2 with median f/u time]
 ![Cumulative incidence of CIN2](preliminary_results/CI_CIN2.png)
 
+[Cumulative incidence of CIN2-Complete regression]
+![Cumulative incidence of CIN2](preliminary_results/CI_cin2_complete_regression_plot.png)
+
 [Stacked plot_multi-state analysis]
 ![msmplot](preliminary_results/msmplot.PNG)
 
